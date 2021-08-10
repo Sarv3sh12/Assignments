@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    pad: 0;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.main {
+    max-width: 65%;
+    margin: 20px auto;
+}
+/* first div */
+.div1{
+    background-color: white;
+    padding-left: 10px;
+    height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ul1 {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.li1{
+    margin-right: 25px;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* second div */
+.div2 {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+
+}
+
+.idiv {
+    text-align: center;
+    padding: 60px 80px;
+    margin-left: 120px;
+}
+
+.btn {
+    margin-top: 10px;
+    padding: 10px;
+    border: 3px solid black;
+    color: lightsalmon;
+    background-color: white;
+}
+/* third div */
+
+.div3 {
+    margin-top: 40px;
+    background-color: white;
+    padding: 30px;
+}
+
+/* forth div */
+.div4 {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+.li4 {
+    list-style-type: none;
+    border: 3px solid grey;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+
+/* fifith div */
+
+.div5 {
+    background-color: white;
+    padding: 30px;
+}
+
+.head {
+    font-family: 'MonteCarlo', cursive;
+}
+
+.li5 {
+    list-style-type: none;
+    border: 3px solid grey;
+    margin-bottom: 5px;
+    padding-left: 10px;
+
+}
